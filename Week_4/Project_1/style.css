@@ -1,0 +1,62 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #F9F5ED;
+}
+body{
+    max-width: 1440px;
+}
+nav{
+    padding: 20px 10%;
+    height: 15vh;
+}
+nav ul{
+    display: flex;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 5%;
+    font-weight: 500;
+}
+
+/* CSS for Main Section */
+main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 10%;
+}
+.leftmain{
+    width: 40%;
+}
+.leftmain h1{
+    font-size: 60px;
+}
+.leftmain p{
+    margin: 5% 0;
+}
+.leftmain button{
+    padding: 15px 20px;
+    border: none;
+    background-color: #008000b0;
+    border-radius: 10px;
+    color: #ffffff;
+    font-weight: 500;
+}
+.rightmain{
+    width: 60%;
+    margin-left: 10%;
+    /* position:absolute;
+    right: -50px; */
+}
+.img1{
+    margin: 10px;
+}
+.img2{
+    margin: 10px;
+}
+.img3{
+    margin: 10px;
+}
