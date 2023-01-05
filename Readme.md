@@ -3,4 +3,4 @@
 ## Week-3
 
 Project-1
-[Solution](./Week_3/Project_1/readme.md)
+[Solution](https://polite-sawine-18f724.netlify.app)
