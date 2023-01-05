@@ -3,4 +3,4 @@
 ## Week-3
 
 Project-1
-[Sol](./)
+[Solution](./Week_3/Project_1/readme.md)
